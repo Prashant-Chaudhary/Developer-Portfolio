@@ -216,59 +216,41 @@ const openSource = {
 const certifications = {
   certifications: [
     {
-      title: "Selenium",
-      subtitle: "- Vskills",
-      logo_path: "vskills-logo.png",
+      title: "OCJP6",
+      subtitle: "- Oracle Certified Professional, Java SE 6 Programmer",
+      logo_path: "ocjp6.jpeg",
       certificate_link:
         "https://www.vskills.in/certification/40215-certified-selenium-professional-bharat-babu-kammakatla",
-      alt_name: "Vskills",
+      alt_name: "OCJP",
       color_code: "#F6EAEA",
     },
     {
-      title: "Cloud Admin & Automation",
-      subtitle: "- Experitest",
-      logo_path: "seetest-logo.png",
+      title: "Six Sigma",
+      subtitle: "- Six Sigma Green Belt, DFSS Core",
+      logo_path: "sixsigma.png",
       certificate_link:
         "https://drive.google.com/file/d/1qhh1ZUBB2VPrOaT6bNgiJ5Y2sHmCjvMg/view?usp=drivesdk",
-      alt_name: "Experitest",
+      alt_name: "SixSigma",
       color_code: "#F0FFDD",
     },
     {
-      title: "Python",
-      subtitle: "- Jose Portilla",
-      logo_path: "pierian-data-logo.png",
+      title: "Scrum Fundamental Certified",
+      subtitle: "- Scrum Fundamental Certified, ScrumStudy",
+      logo_path: "scrum.jpeg",
       certificate_link:
         "https://www.udemy.com/certificate/UC-a80d6e7c-e753-421d-bcee-5a7bc1769f28/",
-      alt_name: "Pierian-Data",
+      alt_name: "ScrumCertified",
       color_code: "#FEF6E6",
     },
     {
-      title: "Selenium Python",
-      subtitle: "- Rahul Shetty",
-      logo_path: "rahulshettyacademy-logo.png",
-      certificate_link:
-        "https://www.udemy.com/certificate/UC-e4b66abd-18c6-4bfa-9132-ab22d2bf7ef7/",
-      alt_name: "RahulShettyAcademy",
-      color_code: "#FDE9EA",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- IBM",
-      logo_path: "ibm_logo.png",
+      title: "Mean Stack Certification",
+      subtitle: "- The Hong Kong University of Science and Technology",
+      logo_path: "hkust.jpeg",
       certificate_link:
         "https://coursera.org/share/893f2210f39f5a60d0463b19b469b808",
-      alt_name: "IBM",
+      alt_name: "Mean",
       color_code: "#E3F1FA",
-    },
-    {
-      title: "ML and DS",
-      subtitle: "- Andrei Neagoie",
-      logo_path: "zero-to-mastery.png",
-      certificate_link:
-        "https://www.udemy.com/certificate/UC-fd118b7d-7436-442c-a7f8-5077c432d596/",
-      alt_name: "Zero To Mastery",
-      color_code: "#FFFDDD",
-    },
+    }
   ],
 };
 
