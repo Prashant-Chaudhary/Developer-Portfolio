@@ -126,7 +126,7 @@ const workExperiences = {
     {
       role: "Senior Software Engineer",
       company: "Paytm",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/Paytm-Logo.png"),
       date: "July 2020 – Present",
       desc:
         "Tech Architect / Owner for Multiple Products in Acquiring Domain.",
@@ -136,20 +136,21 @@ const workExperiences = {
       ],
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
+      role: "Java Developer",
+      company: "OxforCaps",
+      companylogo: require("./assets/images/oc-circle.png"),
+      date: "JULY 2019 - JULY 2020",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lead the team to develop the Multiple APIs for internal Web & Mobile Applications like OC Acquisition App , OC Contract Management System which helps in streamlining the entire process from the onboarding of the Landlord to the management of the Contracts and the Student Journey and thus increasing productivity.",
+      
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
+      role: "Senior Engineer",
+      company: "Honeywell",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      date: "MARCH 2016- JULY 2019",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Youngest Person to Lead the team for the full stack development and design of Honeywell's PDF conversion solution which resulted in Productivity savings of $40000 and enhanced functionalities to reduce the report creation time by 65%, enabling ~ $65000.",
     },
   ],
 };
