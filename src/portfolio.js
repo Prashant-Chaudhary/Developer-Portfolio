@@ -17,7 +17,7 @@ const greeting = {
 // Your Social Media Link
 
 const socialMediaLinks = {
-  github: "https://github.com/bharatkammakatla",
+  github: "https://github.com/Prashant-Chaudhary",
   linkedin: "https://www.linkedin.com/in/prashantchaudhary9692/",
   outlook: "prashantchaudhary@live.com",
   facebook: "#",
