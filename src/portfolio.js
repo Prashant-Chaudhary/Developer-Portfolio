@@ -116,7 +116,7 @@ const skillsSection = {
     },
     {
       skillName: "jquery",
-      classname: "logos:jquery",
+      classname: "simple-icons:jquery",
       style: {
         backgroundColor: "transparent",
       },
@@ -137,7 +137,7 @@ const skillsSection = {
     },
     {
       skillName: "oracle",
-      classname: "logos:oracle",
+      classname: "grommet-icons:oracle",
       style: {
         backgroundColor: "transparent",
       },
