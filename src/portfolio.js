@@ -8,7 +8,7 @@ const greeting = {
   username: "Prashant Chaudhary",
   title: "Hi all, I'm Prashant",
   subTitle: emoji(
-    "Full Stack Developer 👨‍💻 | Oracle Certified Professional 🤖 | Avid Traveller ✍️ "
+    "Full Stack Developer 👨‍💻 | Oracle Certified Professional 🤖 | Avid Traveller 🏔 "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
