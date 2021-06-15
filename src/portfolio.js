@@ -32,14 +32,14 @@ const skillsSection = {
     "HANDLING ALL DEVELOPMENT ACTIVITIES AND EXPLORING CLOUD",
   skills: [
     emoji(
-      "⚡ Designing and developing scalable systems using Java and other Magic stuff"
+      "⚡ HLD & LLD Solution Designing for 10000 TPS System"
     ),
-    emoji("⚡ End to End automation executions"),
+    emoji("⚡ Developing Backend Applications with Java , Spring."),
     emoji(
-      "⚡ Working on test automation tools like Selenium, Appium, UFT, SoapUI, AutoIT, Katalon Studio, Seetest Mobile Cloud administration, etc"
+      "⚡ UI/UX Designing , Wireframing, Prototyping"
     ),
     emoji(
-      "⚡ Building predictive models to extract insights and make decisions out of data"
+      "⚡ Building awesome frontend of the web applications"
     ),
   ],
 
