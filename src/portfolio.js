@@ -121,18 +121,18 @@ const skillsSection = {
 // Your top 3 work experiences
 
 const workExperiences = {
-  viewExperiences: false, //Set it to true to show workExperiences Section
+  viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Senior Software Engineer",
+      company: "Paytm",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
+      date: "July 2020 – Present",
       desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Tech Architect / Owner for Multiple Products in Acquiring Domain.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Designed Solution for Repayment Deduction for Online Merchants",
+        "Being a Tech Owner, discussed the challenges and issues with the Payment Gateway's 10+ domains",
       ],
     },
     {
