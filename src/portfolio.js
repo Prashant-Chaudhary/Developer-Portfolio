@@ -5,10 +5,10 @@ import emoji from "react-easy-emoji";
 // Your Summary And Greeting Section
 
 const greeting = {
-  username: "Bharat Kammakatla",
-  title: "Hi all, I'm Bharat",
+  username: "Prashant Chaudhary",
+  title: "Hi all, I'm Prashant",
   subTitle: emoji(
-    "Front End Developer 👨‍💻 | Test Automation Engineer 🤖 | Tech Writer ✍️ "
+    "Full Stack Developer 👨‍💻 | Oracle Certified Professional 🤖 | Avid Traveller ✍️ "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
@@ -18,10 +18,10 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/bharatkammakatla",
-  linkedin: "https://www.linkedin.com/in/bharatkammakatla",
-  gmail: "bharatkammakatla@gmail.com",
-  facebook: "https://www.facebook.com/bharat.kammakatla",
-  twitter: "https://twitter.com/Bharat__K",
+  linkedin: "https://www.linkedin.com/in/prashantchaudhary9692/",
+  outlook: "prashantchaudhary@live.com",
+  facebook: "#",
+  twitter: "https://twitter.com/PC_9692",
 };
 
 // Your Skills Section
@@ -32,7 +32,7 @@ const skillsSection = {
     "HANDLING ALL TEST AUTOMATION ACTIVITIES AND EXPLORING DATA SCIENCE",
   skills: [
     emoji(
-      "⚡ Designing and developing Test Automation frameworks using Python and Java"
+      "⚡ Designing and developing scalable systems using Java and other Magic stuff"
     ),
     emoji("⚡ End to End automation executions"),
     emoji(
