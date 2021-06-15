@@ -45,13 +45,6 @@ const skillsSection = {
 
   softwareSkills: [
     {
-      skillName: "python",
-      classname: "logos:python",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
       skillName: "java",
       classname: "logos:java",
       style: {
@@ -59,10 +52,17 @@ const skillsSection = {
       },
     },
     {
-      skillName: "reactJS",
-      classname: "simple-icons:react",
+      skillName: "Spring",
+      classname: "logos:spring-icon",
       style: {
-        color: "#61DAFB",
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "hibernate",
+      classname: "logos:hibernate",
+      style: {
+        backgroundColor: "transparent",
       },
     },
     {
@@ -87,34 +87,82 @@ const skillsSection = {
       },
     },
     {
-      skillName: "postgres",
-      classname: "logos:postgresql",
+      skillName: "html",
+      classname: "vscode-icons:file-type-html",
       style: {
         backgroundColor: "transparent",
       },
     },
     {
-      skillName: "tensorflow",
-      classname: "logos-tensorflow",
+      skillName: "css",
+      classname: "vscode-icons:file-type-css",
       style: {
         backgroundColor: "transparent",
       },
     },
     {
-      skillName: "keras",
-      classname: "simple-icons:keras",
-      style: {
-        backgroundColor: "white",
-        color: "#D00000",
-      },
-    },
-    {
-      skillName: "flask",
-      classname: "simple-icons:flask",
+      skillName: "javascript",
+      classname: "logos:javascript",
       style: {
         backgroundColor: "transparent",
       },
     },
+    {
+      skillName: "bootstrap",
+      classname: "logos:bootstrap",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "jquery",
+      classname: "logos:jquery",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "mysql",
+      classname: "simple-icons:mysql",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "redis",
+      classname: "logos:redis",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "oracle",
+      classname: "logos:oracle",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "jira",
+      classname: "logos:jira",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "postman",
+      classname: "logos:postman-icon",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "aws",
+      classname: "logos:aws",
+      style: {
+        backgroundColor: "transparent",
+      },
+    }
   ],
 };
 
@@ -126,7 +174,7 @@ const workExperiences = {
     {
       role: "Senior Software Engineer",
       company: "Paytm",
-      companylogo: require("./assets/images/Paytm-Logo.png"),
+      companylogo: require("./assets/images/Paytm-Logo-rec.png"),
       date: "July 2020 – Present",
       desc:
         "Tech Architect / Owner for Multiple Products in Acquiring Domain.",
@@ -138,7 +186,7 @@ const workExperiences = {
     {
       role: "Java Developer",
       company: "OxforCaps",
-      companylogo: require("./assets/images/oc-circle.png"),
+      companylogo: require("./assets/images/oc-rec.png"),
       date: "JULY 2019 - JULY 2020",
       desc:
         "Lead the team to develop the Multiple APIs for internal Web & Mobile Applications like OC Acquisition App , OC Contract Management System which helps in streamlining the entire process from the onboarding of the Landlord to the management of the Contracts and the Student Journey and thus increasing productivity.",
@@ -147,7 +195,7 @@ const workExperiences = {
     {
       role: "Senior Engineer",
       company: "Honeywell",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/honeywell-rec.png"),
       date: "MARCH 2016- JULY 2019",
       desc:
         "Youngest Person to Lead the team for the full stack development and design of Honeywell's PDF conversion solution which resulted in Productivity savings of $40000 and enhanced functionalities to reduce the report creation time by 65%, enabling ~ $65000.",
