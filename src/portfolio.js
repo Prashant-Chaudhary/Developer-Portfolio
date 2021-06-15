@@ -29,7 +29,7 @@ const socialMediaLinks = {
 const skillsSection = {
   title: "What i do",
   subTitle:
-    "HANDLING ALL TEST AUTOMATION ACTIVITIES AND EXPLORING DATA SCIENCE",
+    "HANDLING ALL DEVELOPMENT ACTIVITIES AND EXPLORING CLOUD",
   skills: [
     emoji(
       "⚡ Designing and developing scalable systems using Java and other Magic stuff"
@@ -266,8 +266,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+852 51606863",
-  email_address: "bharatkammakatla@gmail.com",
+  number: "+91 9916630039",
+  email_address: "prashantchaudhary@live.com",
 };
 
 export {
