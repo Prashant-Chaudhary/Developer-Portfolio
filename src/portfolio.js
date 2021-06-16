@@ -11,7 +11,7 @@ const greeting = {
     "Full Stack Developer 👨‍💻 | Oracle Certified Professional 🤖 | Avid Traveller 🏔 "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
+    "https://paytm.slack.com/files/U018FAJTJNN/F024C77QNF6/prashantchaudhary_resume_07jun2021.pdf",
 };
 
 // Your Social Media Link
